@@ -1,4 +1,4 @@
-Feature: Validar GET - list all breeds
+Feature: Validar GET - list all breeds status code
 
   Scenario: Validação positiva do endpoint List all breeds
     Given que eu quero validar a requisição GET - List all breeds
